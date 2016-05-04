@@ -14,12 +14,12 @@ body {
 /* Layout Element Colors
 ================================ */
 
-.main-header       { background-color: #384047; }
-.main-logo a       { background-color: #5fcf80; }
-.main-nav a        { background-color: #3f8abf; }
-.primary-content   { background-color: #caebf6; }
-.secondary-content { background-color: #bfe3d0; }
-.main-footer       { background-color: #b7c0c7; }
+.main-header       { background-color: skyblue; }
+.main-logo a       { background-color: Black; }
+.main-nav a        { background-color: Turquoise; }
+.primary-content   { background-color: lightgray; }
+.secondary-content { background-color: maroon; }
+.main-footer       { background-color: purple; }
 
 /* Header, Banner and Footer Layout
 ================================ */
@@ -132,7 +132,6 @@ body {
 	}
 
 }
-
 
 
 
